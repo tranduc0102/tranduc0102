@@ -1,17 +1,24 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div id="badges">
+
+<div id="badges" align="center">
   <a href="https://www.facebook.com/profile.php?id=100022006475024">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=tranduc0102&style=flat-square&color=blue" alt=""/>
-<h1>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tranduc0102&style=flat-square&color=blue" alt=""/>
+</div>
+
+<h1 align="center">
   Hi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-# 👩‍💻 About Me
+
+
+## 👩‍💻 About Me
 Hello! I'm **Trần Huỳnh Đức**, a passionate Game Developer from Vietnam! 🎮
 I have a strong interest in creating engaging and immersive game experiences. Currently, I’m working on various projects using Unity, where I focus on gameplay mechanics, design, and implementation. My journey in game development includes:
 
