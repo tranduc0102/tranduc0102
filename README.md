@@ -28,7 +28,7 @@ I have a strong interest in creating engaging and immersive game experiences. Cu
 
 I'm always eager to learn new technologies and improve my skills in game development. Let's connect and create amazing games together!
 
-Feel free to check out my projects below and reach out if you have any questions or collaboration ideas! 
+Feel free to check out my projects below and reach out if you have any questions or collaboration ideas!
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tranduc0102&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tranduc0102&show_icons=true&theme=radical)
